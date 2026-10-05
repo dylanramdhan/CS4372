@@ -8,7 +8,7 @@ Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 Dataset: [UCI ML Repo's Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
 ### Summary 
-In this assignment, we are comparing _Plain Decision Tree Classifier_, _Random Forest Classifier_, _Adaboot Classifier_, and _XGBoost Classifier_.
+In this assignment, we are comparing Plain Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier, and XGBoost Classifier. A Decision Tree uses a series of decision rules to classify data, while Random Forest combines multiple decision trees to improve accuracy and reduce overfitting. AdaBoost builds multiple weak learners sequentially, focusing more on incorrectly classified data, while XGBoost uses an optimized boosting approach to improve prediction performance.
 
 
 ### How To Run The Code
