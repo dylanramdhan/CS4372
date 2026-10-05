@@ -2,7 +2,8 @@
 ## Assignment #1 - Linear Regression Analysis
 Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
-[Assignment Report](CS 4372 Assignment 1 Report.pdf)
+[ASSIGNMENT REPORT](CS4372_Assignment_1_Report.pdf)
+
 
 Dataset: [UCI ML Repo's Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile)
 
