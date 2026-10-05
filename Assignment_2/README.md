@@ -2,7 +2,7 @@
 ## Assignment #2 - Using Trees
 Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
-[ASSIGNMENT REPORT](REPORT.pdf)
+[ASSIGNMENT REPORT](REPORT2.pdf)
 
 Dataset: [UCI ML Repo's Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
