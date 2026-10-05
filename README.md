@@ -6,4 +6,4 @@ This course will focus on the application of computational tools to solve machin
 ### Teammate
 This course assignments were completed with a teammate, [Taylor Mitchell](https://github.com/t-mitchell04).
 
-(University of Texas at Dallas)[https://www.utdallas.edu/] | Fall 2026
+[University of Texas at Dallas](https://www.utdallas.edu/) | Fall 2026
