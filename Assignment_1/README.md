@@ -4,7 +4,6 @@ Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 [ASSIGNMENT REPORT](REPORT1.pdf)
 
-
 Dataset: [UCI ML Repo's Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile)
 
 ### Summary
