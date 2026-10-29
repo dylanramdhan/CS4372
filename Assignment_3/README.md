@@ -2,7 +2,7 @@
 ## Assignment #3 - Deep Learning with Keras
 Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
-**Colab Notebook:** [Open in Google Colab](PASTE_YOUR_PUBLIC_COLAB_LINK_HERE)
+**Colab Notebook:** [Open in Google Colab](PASTE_YOUR_PUBLIC_COLAB_LINK_HERE) <br>
 **Dataset:** [Dog Breed Identification](https://www.kaggle.com/competitions/dog-breed-identification) (Kaggle)
 
 ## Summary
