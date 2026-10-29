@@ -24,7 +24,7 @@ The data is downloaded directly from Kaggle at runtime using the `kagglehub` pac
 3. Run cell **0.0**. A Kaggle login box appears; enter the `username` and `key` from `kaggle.json`, and wait for *"Kaggle credentials successfully validated."*
 4. Run the remaining cells in order (**Runtime → Run cell and below** from Cell 1.1.).
 
-The only package installed by the notebook is `kagglehub` (Cell 0.0.); all other libraries (TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn) come pre-installed in Google Colab. A full run takes about **20–30 minutes** on a T4 GPU.
+The only package installed by the notebook is `kagglehub` (Cell 0.0.); all other libraries (TensorFlow/Keras, NumPy, Pandas, Matplotlib, scikit-learn) come pre-installed in Google Colab. A full run takes about **~20–30 minutes** on a T4 GPU.
 
 ## Notes
 - Random seeds are fixed (`SEED = 42`), so results should closely match the saved outputs; small differences can occur from GPU computation.
