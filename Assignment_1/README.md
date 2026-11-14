@@ -7,7 +7,7 @@ Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 Dataset: [UCI ML Repo's Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile)
 
-| Notebooks | NLP Tasks |
+| Notebooks | Tasks |
 |---|---|
 | `Plain_Decision_Tree_Classifier.ipynb` | _Plain Decision Tree Classifier Regressor_ |
 | `Random_Forest_Classifier.ipynb` | _Random Forest Classifier Regressor_ |
