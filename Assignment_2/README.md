@@ -7,7 +7,7 @@ Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 Dataset: [UCI ML Repo's Wine Quality Dataset](https://archive.ics.uci.edu/dataset/186/wine+quality)
 
-| Notebooks | NLP Tasks |
+| Notebooks | Tasks |
 |---|---|
 | `SGDRegressor.ipynb` | _SGDRegressor_ library using scikit-learn |
 | `ols.ipynb` | _OLS_ library of Statsmodels |
