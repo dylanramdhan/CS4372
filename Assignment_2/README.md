@@ -19,6 +19,7 @@ Dataset: [UCI ML Repo's Wine Quality Dataset](https://archive.ics.uci.edu/datase
 In this assignment, we are comparing Plain Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier, and XGBoost Classifier. A Decision Tree uses a series of decision rules to classify data, while Random Forest combines multiple decision trees to improve accuracy and reduce overfitting. AdaBoost builds multiple weak learners sequentially, focusing more on incorrectly classified data, while XGBoost uses an optimized boosting approach to improve prediction performance.
 
 
+
 ### How To Run The Code
 Each notebook runs on its own, on a local computer.
 1. Open the notebook in Jupyter or VS Code.
@@ -37,6 +38,7 @@ conda install -c conda-forge python-graphviz
 #### Origin of Data:
 The dataset is loaded directly from the UCI ML Repository with `fetch_ucirepo(id=186)`, so no local paths are used:
 https://archive.ics.uci.edu/dataset/186/wine+quality
+
 
 
 ### Assumptions

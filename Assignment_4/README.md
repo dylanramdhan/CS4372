@@ -26,6 +26,14 @@ The pre-trained models download automatically from Hugging Face the first time t
 ### How to Run the Code:
 Files can be downloaded and run locally.
 
+#### Requirements
+- Python 3.10 or newer
+- Packages (installed by the first code cell of each notebook):
+  ```
+  pip install "transformers[sentencepiece]<5" torch requests
+  ```
+
+
 
 ### Assumptions:
 - Project Gutenberg's header, license, and the book's table of contents were removed, keeping only the story text. All notebooks use the same cleaned text.
