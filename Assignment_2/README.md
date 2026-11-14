@@ -39,7 +39,7 @@ The dataset is loaded directly from the UCI ML Repository with `fetch_ucirepo(id
 https://archive.ics.uci.edu/dataset/186/wine+quality
 
 
-## Assumptions
+### Assumptions
 - Red and white wines are combined into one dataset of *6,497* samples.
 - The quality score is converted into a binary target: quality of 7 or higher = good (1), otherwise not good (0). About *20%* of the wines are good, so the classes are imbalanced.
 
