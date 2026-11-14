@@ -9,8 +9,11 @@ Dataset: [UCI ML Repo's Wine Quality Dataset](https://archive.ics.uci.edu/datase
 
 | Notebooks | Tasks |
 |---|---|
-| `SGDRegressor.ipynb` | _SGDRegressor_ library using scikit-learn |
-| `ols.ipynb` | _OLS_ library of Statsmodels |
+| `Plain_Decision_Tree_Classifier.ipynb` | _Plain Decision Tree Classifier Regressor_ |
+| `Random_Forest_Classifier.ipynb` | _Random Forest Classifier Regressor_ |
+| `ada.ipynb` | _Adaboot Classifier Regressor_ |
+| `xgb.ipynb` | _XGBoost Classifier Regressor_ |
+
 
 ### Summary 
 In this assignment, we are comparing Plain Decision Tree Classifier, Random Forest Classifier, AdaBoost Classifier, and XGBoost Classifier. A Decision Tree uses a series of decision rules to classify data, while Random Forest combines multiple decision trees to improve accuracy and reduce overfitting. AdaBoost builds multiple weak learners sequentially, focusing more on incorrectly classified data, while XGBoost uses an optimized boosting approach to improve prediction performance.
