@@ -8,7 +8,7 @@ Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 **Colab Notebook:** [Open in Google Colab](PASTE_YOUR_PUBLIC_COLAB_LINK_HERE) <br>
 **Dataset:** [Dog Breed Identification](https://www.kaggle.com/competitions/dog-breed-identification) (Kaggle)
 
-| Notebooks | Tasks |
+| Notebook | Task |
 |---|---|
 | `CS4372_Assignment_3.ipynb` | Performing _Feature Extraction_ and _Fine-Tuning_ to the _Dog Breed Identification_ |
 
