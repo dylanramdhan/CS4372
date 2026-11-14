@@ -7,12 +7,11 @@ Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 Dataset: [UCI ML Repo's Automobile Dataset](https://archive.ics.uci.edu/dataset/10/automobile)
 
+
 | Notebooks | Tasks |
 |---|---|
-| `Plain_Decision_Tree_Classifier.ipynb` | _Plain Decision Tree Classifier Regressor_ |
-| `Random_Forest_Classifier.ipynb` | _Random Forest Classifier Regressor_ |
-| `ada.ipynb` | _Adaboot Classifier Regressor_ |
-| `xgb.ipynb` | _xgb.ipynb_ |
+| `SGDRegressor.ipynb` | _SGDRegressor_ library using scikit-learn |
+| `ols.ipynb` | _OLS_ library of Statsmodels |
 
 
 ### Summary
