@@ -32,6 +32,7 @@ Files can be downloaded and run locally.
   ```
   pip install "transformers[sentencepiece]<5" torch requests
   ```
+- The summarization and translation have torch commented out because they were trained on local hardware using ROCm. When running those be sure to uncomment the pip install line.
 
 
 
