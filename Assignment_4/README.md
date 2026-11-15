@@ -6,8 +6,8 @@ Teammates: **Taylor Mitchell** & **Dylan Ramdhan**
 
 | Notebooks | NLP Tasks |
 |---|---|
-| `[].ipynb` | Text Summerization |
-| `[].ipynb` | Machine Translation |
+| `Summarization_and_Translation.ipynb` | Text Summerization |
+| `Summarization_and_Translation.ipynb` | Machine Translation |
 | `Chatbot.ipynb` | Question-Answering (Chatbot) on the Text |
 | `TextGeneration.ipynb` | Text Generation Starting from a Seed Text from the Book |
 
