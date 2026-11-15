@@ -40,4 +40,3 @@ Files can be downloaded and run locally.
 - Project Gutenberg's header, license, and the book's table of contents were removed, keeping only the story text. All notebooks use the same cleaned text.
 - All models are used as pre-trained, without further training on the book.
 - The chatbot splits the book into fixed-size passages by word count, and is evaluated only on questions whose answers appear word-for-word in the text.
-- Text generation uses one seed sentence from the book with a fixed random seed (`SEED = 42`), so results are reproducible.
